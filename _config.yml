@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3850698
+color:
+  saturation: 0.03187992
+  lightness: 0.6383338
+  brandStrength: 1
+  brandColors:
+    - '#000001'
+    - '#FFFFFF'
+    - '#6C696F'
+    - '#2F2E31'
+    - '#C6C5C8'
+  rhythmicContrast: 0.6379414
+name: Crowded Elevator
