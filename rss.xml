@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Crowded Elevator]]></title>
         <description><![CDATA[Crowded Elevator]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/crowded-elevator/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 18:01:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 18:02:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/crowded-elevator/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Miss Fortune]]></title>
+            <description><![CDATA[<article><h1>Miss Fortune</h1><p>Winner of Best Actress - Brianna Lux - Best Editing, Best Special Effects, and Audience Award - 48 Hour Film Festival, DC, 2014 Starring: Brianna Lux, Mikael Johnson, Matt Berman, Lori Carpenter, Michael Visser, Joanna Tiger, Sean Paul Ellis, Jeff Carpenter, Dan Scolnic, and Gabe Peyton</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e45a326323209f58febe954ad86d1fa3ac3fb46.jpg"></article>]]></description>
+            <link>https://thegrid.ai/crowded-elevator/miss-fortune/index.html</link>
+            <guid isPermaLink="false">cb6a2213-5104-489c-a472-07476774daa4</guid>
+            <pubDate>Fri, 19 Feb 2016 18:01:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Made For Each Other]]></title>
             <description><![CDATA[<article><h1>Made For Each Other</h1><p>Winner - Best of the Fest, 72 Film Fest 2012 Starring: Mick Sexton, Brianna Lux, Taylor Durant and Mike Visser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87974c475d4348edc2b2d15181ebaf18b3d3c866.jpg"></article>]]></description>
-            <link>undefinedmade-for-each-other/index.html</link>
+            <link>https://thegrid.ai/crowded-elevator/made-for-each-other/index.html</link>
             <guid isPermaLink="false">049fb303-4809-404f-8b84-5ccbc86ac64f</guid>
             <pubDate>Fri, 19 Feb 2016 18:01:40 GMT</pubDate>
         </item>
