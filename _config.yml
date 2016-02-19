@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.3850698
+typography_spectrum: 0.07572501
 color:
   saturation: 0
   brandStrength: 1
-  rhythmicContrast: 0
+  lightness: 0.7857143
   brandColors:
     - '#000001'
     - '#FFFFFF'
     - '#6B6B6D'
     - '#312F2F'
     - '#D0D0D0'
-  lightness: 0
-layout_spectrum: 0.6095597
+  rhythmicContrast: 0
+layout_spectrum: 0
 name: Crowded Elevator
