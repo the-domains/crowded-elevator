@@ -1,7 +1,7 @@
 name: Crowded Elevator
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.07572501
+typography_spectrum: 0.06957
 collections:
   - index:
       path: /
