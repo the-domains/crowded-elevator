@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0
   brandStrength: 1
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Crowded Elevator
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.4357102229259908
-layout_spectrum: 0.009349700761958957
+typography_spectrum: 0.08002145
+layout_spectrum: 0.9500536
