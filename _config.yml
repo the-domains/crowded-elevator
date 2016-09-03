@@ -1,5 +1,30 @@
-title: Crowded Elevator Pictures
-purpose: []
+typography_spectrum: 0.08002145
+color:
+  saturation: 0
+  brandStrength: 1
+  rhythmicContrast: 0
+  brandColors:
+    - '#010101'
+    - '#ffffff'
+    - '#cbcbcb'
+    - '#6a6a6a'
+    - '#444444'
+  lightness: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9500536
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Crowded Elevator
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0
-  brandStrength: 1
-  rhythmicContrast: 0
-  brandColors:
-    - '#010101'
-    - '#ffffff'
-    - '#cbcbcb'
-    - '#6a6a6a'
-    - '#444444'
-  lightness: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Crowded Elevator
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.08002145
-layout_spectrum: 0.9500536
+title: Crowded Elevator Pictures
+description: 'Funny Business, Inc.'
+purpose: []
