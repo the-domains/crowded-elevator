@@ -1,4 +1,18 @@
-typography_spectrum: 0.08002145
+title: Crowded Elevator Pictures
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: 'Funny Business, Inc.'
 color:
   saturation: 0
   brandStrength: 1
@@ -10,35 +24,21 @@ color:
     - '#6a6a6a'
     - '#444444'
   lightness: 0
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.9500536
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4cb030f-5677-40d0-8249-4d4e66740dee.png
-name: Crowded Elevator
 cta:
   bucket: null
   version: null
   domain: null
+name: Crowded Elevator
 favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: Crowded Elevator Pictures
-description: 'Funny Business, Inc.'
-purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4cb030f-5677-40d0-8249-4d4e66740dee.png
+typography_spectrum: 0.08002145
+layout_spectrum: 0.5965485
