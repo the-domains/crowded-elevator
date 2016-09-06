@@ -16,14 +16,14 @@ description: 'Funny Business, Inc.'
 color:
   saturation: 0
   brandStrength: 1
-  rhythmicContrast: 0
+  lightness: 0
   brandColors:
     - '#010101'
     - '#ffffff'
     - '#cbcbcb'
     - '#6a6a6a'
     - '#444444'
-  lightness: 0
+  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
